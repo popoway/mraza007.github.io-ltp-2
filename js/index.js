@@ -1,4 +1,4 @@
-consoleText(['Welcome to Lets Talk Python','Want to know more?','Sign up @bit.ly/ltpnewbies','Join us on Slack','@bit.ly/ltpslack'], 'text',['white']);
+consoleText(['Welcome to Let\'s Talk Python','Want to know more?','Sign up @bit.ly/ltpnewbies','Join us on Slack','@bit.ly/ltpslack'], 'text',['white']);
 
 function consoleText(words, id, colors) {
   if (colors === undefined) colors = ['#fff'];
