@@ -21,4 +21,6 @@ powerful girl can always be sought.
 Believe one day dreaming is there,   
 and even hearts will be odd.   
 
-From Ming <3  Feb/14/2018
+From Ming <3  Feb/14/2018  
+
+Copyright © 2018 popoway. All Rights Reserved.
